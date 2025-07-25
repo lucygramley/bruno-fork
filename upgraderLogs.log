@@ -1,0 +1,280 @@
+2025-07-25 14:28:49.184 [info] [2025-07-25T21:28:49.023Z] JS/TS Upgrade Assistant extension is activating...
+2025-07-25 14:28:49.184 [info] [2025-07-25T21:28:49.024Z] ✅ Kusto authentication provider registered: kusto-oauth
+2025-07-25 14:28:49.184 [info] [2025-07-25T21:28:49.024Z] Extension commands registered successfully
+2025-07-25 14:28:49.184 [info] [2025-07-25T21:28:49.024Z] Initializing MCP server...
+2025-07-25 14:28:49.184 [info] [2025-07-25T21:28:49.025Z] JS/TS Upgrade Assistant MCP server provider registered successfully
+2025-07-25 14:28:49.184 [info] [2025-07-25T21:28:49.025Z] MCP Server ID: JSTSUpgradeAssistant
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.025Z] MCP Server Path: c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\Updates.exe
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.076Z] Attempting to obtain tokens for MCP server...
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.076Z] Starting GitHub authentication process...
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.076Z] Trying 6 different scope combinations for existing sessions...
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.076Z] Attempting scope combination 1/6: []
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.076Z] Starting Kusto authentication...
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.169Z] ✅ Found existing GitHub session with scopes: []
+2025-07-25 14:28:49.185 [info] [2025-07-25T21:28:49.169Z] GitHub token obtained successfully (length: 40 chars)
+2025-07-25 14:28:49.301 [info] [2025-07-25T21:28:49.300Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:49.302 [info] [2025-07-25T21:28:49.301Z] Using cached Kusto token
+2025-07-25 14:28:49.303 [info] [2025-07-25T21:28:49.301Z] ✅ GitHub token obtained and will be passed to MCP server
+2025-07-25 14:28:49.304 [info] [2025-07-25T21:28:49.301Z] ✅ Azure/Kusto token obtained and will be passed to MCP server
+2025-07-25 14:28:49.304 [info] [2025-07-25T21:28:49.301Z] Kusto token expires at: 2025-07-26T18:17:27.000Z
+2025-07-25 14:28:49.304 [info] [2025-07-25T21:28:49.302Z] Environment variables set: VSCODE_LOG_FILE, GITHUB_TOKEN, VSCODE_KUSTO_TOKEN
+2025-07-25 14:28:49.304 [info] [2025-07-25T21:28:49.302Z] Created MCP server definition: ID=JSTSUpgradeAssistant, Path=c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\Updates.exe, Args=["--mcp","--copilot"]
+2025-07-25 14:28:49.305 [info] [2025-07-25T21:28:49.304Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:51.167 [info] [2025-07-25T21:28:51.146Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:51.206 [info] [2025-07-25T21:28:51.205Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:56.607 [info] [2025-07-25T21:28:56.606Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:56.646 [info] [2025-07-25T21:28:56.644Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:56.723 [info] [2025-07-25T21:28:56.722Z] Using cached Kusto token (expires in 43009 minutes)
+2025-07-25 14:28:58.039 [info] [2025-07-25T21:28:58.038Z] Using cached Kusto token (expires in 43008 minutes)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.064Z] JS/TS Upgrade Assistant extension is activating...
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.070Z] ✅ Kusto authentication provider registered: kusto-oauth
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.070Z] Extension commands registered successfully
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.071Z] Initializing MCP server...
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.073Z] JS/TS Upgrade Assistant MCP server provider registered successfully
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.073Z] MCP Server ID: JSTSUpgradeAssistant
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.074Z] MCP Server Path: c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\Updates.exe
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.111Z] Attempting to obtain tokens for MCP server...
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.112Z] Starting GitHub authentication process...
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.112Z] Trying 6 different scope combinations for existing sessions...
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.112Z] Attempting scope combination 1/6: []
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.113Z] Starting Kusto authentication...
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.116Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.117Z] Using cached Kusto token
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.117Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.118Z] ✅ Found existing GitHub session with scopes: []
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.118Z] GitHub token obtained successfully (length: 40 chars)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.118Z] ✅ GitHub token obtained and will be passed to MCP server
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.119Z] ✅ Azure/Kusto token obtained and will be passed to MCP server
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.119Z] Kusto token expires at: 2025-07-26T18:17:27.000Z
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.119Z] Environment variables set: VSCODE_LOG_FILE, GITHUB_TOKEN, VSCODE_KUSTO_TOKEN
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.119Z] Created MCP server definition: ID=JSTSUpgradeAssistant, Path=c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\Updates.exe, Args=["--mcp","--copilot"]
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.209Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.215Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.423Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:34.443 [info] [2025-07-25T21:30:34.426Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:36.009 [info] [2025-07-25T21:30:36.008Z] Using cached Kusto token (expires in 43007 minutes)
+2025-07-25 14:30:44.595 [info] [2025-07-25T21:30:44.592Z] Opening Copilot Chat and sending UpdateTypeScriptPackages tool message for: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:30:44.595 [info] [2025-07-25T21:30:44.593Z] Attempting to use proper VS Code Chat API...
+2025-07-25 14:30:44.628 [info] [2025-07-25T21:30:44.627Z] Opened chat with pre-filled message
+2025-07-25 14:30:44.628 [info] [2025-07-25T21:30:44.627Z] Successfully initiated UpdateTypeScriptPackages process
+2025-07-25 14:30:47.737 [info] [2025-07-25T21:30:47.735Z] [MCP Server] [2025-07-25 14:30:47.694] [Information] [Updates.Program] Updates.exe MCP Server Starting
+2025-07-25 14:30:47.737 [info] [2025-07-25T21:30:47.736Z] [MCP Server] [2025-07-25 14:30:47.709] [Information] [Updates.Program] GitHub authentication: Available
+2025-07-25 14:30:47.737 [info] [2025-07-25T21:30:47.736Z] [MCP Server] [2025-07-25 14:30:47.709] [Information] [Updates.Program] MCP server configured, starting host...
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.221Z] [MCP Server] [2025-07-25 14:30:47.709] [Information] [Updates.Program] MCP server configured, starting host...
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.222Z] [MCP Server] [2025-07-25 14:30:47.772] [Information] [ModelContextProtocol.Server.StdioServerTransport] Server (stream) (Updates) transport reading messages.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.222Z] [MCP Server] [2025-07-25 14:30:47.827] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.223Z] [MCP Server] [2025-07-25 14:30:47.828] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Production
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.223Z] [MCP Server] [2025-07-25 14:30:47.829] [Information] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\lucygramley
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.224Z] [MCP Server] [2025-07-25 14:30:47.832] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0) method 'initialize' request handler called.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.224Z] [MCP Server] [2025-07-25 14:30:47.839] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'initialize' request handler completed.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.225Z] [MCP Server] [2025-07-25 14:30:47.849] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'logging/setLevel' request handler called.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.225Z] [MCP Server] [2025-07-25 14:30:47.850] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/list' request handler called.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.226Z] [MCP Server] [2025-07-25 14:30:47.851] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'logging/setLevel' request handler completed.
+2025-07-25 14:30:48.227 [info] [2025-07-25T21:30:48.226Z] [MCP Server] [2025-07-25 14:30:47.856] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/list' request handler completed.
+2025-07-25 14:31:09.522 [info] [2025-07-25T21:31:09.515Z] [MCP Server] [2025-07-25 14:31:09.024] [Information] [ModelContextProtocol.Server.StdioServerTransport] Server (stream) (Updates) transport completed reading messages.
+2025-07-25 14:31:09.522 [info] [2025-07-25T21:31:09.516Z] [MCP Server] [2025-07-25 14:31:09.031] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) shutting down.
+2025-07-25 14:31:09.522 [info] [2025-07-25T21:31:09.516Z] [MCP Server] [2025-07-25 14:31:09.034] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) shut down.
+2025-07-25 14:31:09.522 [info] [2025-07-25T21:31:09.516Z] [MCP Server] [2025-07-25 14:31:09.036] [Information] [Microsoft.Hosting.Lifetime] Application is shutting down...
+2025-07-25 14:31:09.522 [info] [2025-07-25T21:31:09.517Z] [MCP Server] [2025-07-25 14:31:09.046] [Information] [ModelContextProtocol.Server.StdioServerTransport] Server (stream) (Updates) shutting down.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.517Z] [MCP Server] [2025-07-25 14:31:09.047] [Information] [ModelContextProtocol.Server.StdioServerTransport] Server (stream) (Updates) shut down.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.517Z] [MCP Server] [2025-07-25 14:31:09.301] [Information] [Updates.Program] Updates.exe MCP Server Starting
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.517Z] [MCP Server] [2025-07-25 14:31:09.317] [Information] [Updates.Program] GitHub authentication: Available
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.518Z] [MCP Server] [2025-07-25 14:31:09.317] [Information] [Updates.Program] MCP server configured, starting host...
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.518Z] [MCP Server] [2025-07-25 14:31:09.402] [Information] [ModelContextProtocol.Server.StdioServerTransport] Server (stream) (Updates) transport reading messages.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.519Z] [MCP Server] [2025-07-25 14:31:09.460] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.519Z] [MCP Server] [2025-07-25 14:31:09.461] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Production
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.519Z] [MCP Server] [2025-07-25 14:31:09.462] [Information] [Microsoft.Hosting.Lifetime] Content root path: C:\Users\lucygramley
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.520Z] [MCP Server] [2025-07-25 14:31:09.470] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'initialize' request handler completed.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.520Z] [MCP Server] [2025-07-25 14:31:09.486] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'logging/setLevel' request handler called.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.520Z] [MCP Server] [2025-07-25 14:31:09.487] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/list' request handler called.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.521Z] [MCP Server] [2025-07-25 14:31:09.488] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'logging/setLevel' request handler completed.
+2025-07-25 14:31:09.523 [info] [2025-07-25T21:31:09.521Z] [MCP Server] [2025-07-25 14:31:09.494] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/list' request handler completed.
+2025-07-25 14:31:09.999 [info] [2025-07-25T21:31:09.996Z] [MCP Server] [2025-07-25 14:31:09.486] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'logging/setLevel' request handler called.
+2025-07-25 14:31:10.000 [info] [2025-07-25T21:31:09.997Z] [MCP Server] [2025-07-25 14:31:09.487] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/list' request handler called.
+2025-07-25 14:31:10.000 [info] [2025-07-25T21:31:09.997Z] [MCP Server] [2025-07-25 14:31:09.488] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'logging/setLevel' request handler completed.
+2025-07-25 14:31:10.000 [info] [2025-07-25T21:31:09.998Z] [MCP Server] [2025-07-25 14:31:09.494] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/list' request handler completed.
+2025-07-25 14:31:24.686 [info] [2025-07-25T21:31:24.684Z] Opening Copilot Chat and sending UpdateTypeScriptPackages tool message for: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:24.686 [info] [2025-07-25T21:31:24.684Z] Attempting to use proper VS Code Chat API...
+2025-07-25 14:31:24.694 [info] [2025-07-25T21:31:24.692Z] Opened chat with pre-filled message
+2025-07-25 14:31:24.694 [info] [2025-07-25T21:31:24.693Z] Successfully initiated UpdateTypeScriptPackages process
+2025-07-25 14:31:31.895 [info] [2025-07-25T21:31:31.891Z] [MCP Server] [2025-07-25 14:31:31.834] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/call' request handler called.
+2025-07-25 14:31:31.895 [info] [2025-07-25T21:31:31.892Z] [MCP Server] [2025-07-25 14:31:31.854] [Information] [Updates.Mcp.McpTools] Starting UpdateTypeScriptPackages for directory: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:31.895 [info] [2025-07-25T21:31:31.893Z] [MCP Server] [2025-07-25 14:31:31.855] [Information] [Updates.Mcp.McpTools] Creating Updater instance...
+2025-07-25 14:31:31.895 [info] [2025-07-25T21:31:31.893Z] [MCP Server] [Logger] VS Code logging initialized for project: bruno-fork
+2025-07-25 14:31:31.895 [info] [2025-07-25T21:31:31.893Z] [MCP Server] [2025-07-25 14:31:31.860] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:31.895 [info] [2025-07-25T21:31:31.894Z] [MCP Server] [2025-07-25 14:31:31.862] [Information] [Updates.Mcp.McpTools] Executing updater...
+2025-07-25 14:31:32.357 [info] [2025-07-25T21:31:32.356Z] [MCP Server] [2025-07-25 14:31:31.854] [Information] [Updates.Mcp.McpTools] Starting UpdateTypeScriptPackages for directory: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:32.357 [info] [2025-07-25T21:31:32.356Z] [MCP Server] [2025-07-25 14:31:31.855] [Information] [Updates.Mcp.McpTools] Creating Updater instance...
+2025-07-25 14:31:32.357 [info] [2025-07-25T21:31:32.357Z] [MCP Server] [Logger] VS Code logging initialized for project: bruno-fork
+2025-07-25 14:31:32.357 [info] [2025-07-25T21:31:32.357Z] [MCP Server] [2025-07-25 14:31:31.860] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:32.357 [info] [2025-07-25T21:31:32.357Z] [MCP Server] [2025-07-25 14:31:31.862] [Information] [Updates.Mcp.McpTools] Executing updater...
+2025-07-25 14:31:34.375 [info] [2025-07-25T21:31:34.375Z] [MCP Server] [2025-07-25 14:31:34.206] Updating 14 packages at c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:36.904 [info] [2025-07-25T21:31:36.903Z] [MCP Server] [2025-07-25 14:31:36.838] Analyzing project at: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+2025-07-25 14:31:36.904 [info] [2025-07-25T21:31:36.903Z] [MCP Server] [2025-07-25 14:31:36.840] Analyzing repository structure...
+2025-07-25 14:31:37.412 [info] [2025-07-25T21:31:37.411Z] [MCP Server] [2025-07-25 14:31:37.137] Detected monorepo structure with 14 packages
+2025-07-25 14:31:37.412 [info] [2025-07-25T21:31:37.411Z] [MCP Server] [2025-07-25 14:31:37.139] Generating installation commands...
+2025-07-25 14:31:38.432 [info] [2025-07-25T21:31:38.430Z] [MCP Server] [2025-07-25 14:31:38.008] Found 2 package installation tasks
+2025-07-25 14:31:38.432 [info] [2025-07-25T21:31:38.431Z] [MCP Server] [2025-07-25 14:31:38.015] Installing packages...
+2025-07-25 14:32:33.741 [info] [2025-07-25T21:32:33.739Z] [MCP Server] [2025-07-25 14:32:33.643] Looking for local TypeScript installation...
+2025-07-25 14:32:33.741 [info] [2025-07-25T21:32:33.740Z] [MCP Server] [2025-07-25 14:32:33.647] Using local TypeScript compiler at: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork\node_modules\typescript\lib\tsc.js
+2025-07-25 14:32:33.741 [info] [2025-07-25T21:32:33.740Z] [MCP Server] [2025-07-25 14:32:33.648] Building project to collect baseline errors...
+2025-07-25 14:32:58.996 [info] [2025-07-25T21:32:58.995Z] [MCP Server] [2025-07-25 14:32:58.524] Found 130 errors in initial build
+2025-07-25 14:33:16.734 [info] [2025-07-25T21:33:16.733Z] [MCP Server] [2025-07-25 14:33:16.621] Updating packages in the following order:
+2025-07-25 14:33:16.735 [info] [2025-07-25T21:33:16.733Z] [MCP Server] @faker-js/faker, @jest/globals, @playwright/test, @types/jest, @types/node, concurrently, eslint, fs-extra, globals, jest ts-jest, playwright, pretty-quick, randomstring
+2025-07-25 14:33:17.249 [info] [2025-07-25T21:33:17.248Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:33:17.249 [info] [2025-07-25T21:33:17.248Z] [MCP Server] [2025-07-25 14:33:16.760] Using VS Code provided token for Kusto authentication
+2025-07-25 14:33:17.249 [info] [2025-07-25T21:33:17.248Z] [MCP Server] [2025-07-25 14:33:16.775] Updating package group (1/13): @faker-js/faker
+2025-07-25 14:33:32.938 [info] [2025-07-25T21:33:32.937Z] [MCP Server] [2025-07-25 14:33:32.681] Updating @faker-js/faker from ^7.6.0 to ^9.9.0
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.037Z] [MCP Server] [2025-07-25 14:33:41.882] No new errors found after updating @faker-js/faker.
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.038Z] [MCP Server] [2025-07-25 14:33:41.883] Modified files while updating package(s) @faker-js/faker:
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.038Z] [MCP Server] package.json
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.038Z] [MCP Server] package-lock.json
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.039Z] [MCP Server] [2025-07-25 14:33:41.886] Deleted temp directory for PackageUpdater.
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.039Z] [MCP Server] [2025-07-25 14:33:41.888] Package group @faker-js/faker completed in 00:00:25.
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.040Z] [MCP Server] Successfully upgraded 1 packages: @faker-js/faker
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.040Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.040Z] [MCP Server] [2025-07-25 14:33:41.890] Using VS Code provided token for Kusto authentication
+2025-07-25 14:33:42.042 [info] [2025-07-25T21:33:42.041Z] [MCP Server] [2025-07-25 14:33:41.891] Updating package group (2/13): @jest/globals
+2025-07-25 14:33:52.212 [info] [2025-07-25T21:33:52.210Z] [MCP Server] [2025-07-25 14:33:51.723] Updating @jest/globals from ^29.2.0 to ^30.0.5
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.339Z] [MCP Server] [2025-07-25 14:34:01.304] No new errors found after updating @jest/globals.
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.340Z] [MCP Server] [2025-07-25 14:34:01.306] Modified files while updating package(s) @jest/globals:
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.341Z] [MCP Server] package.json
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.341Z] [MCP Server] package-lock.json
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.341Z] [MCP Server] [2025-07-25 14:34:01.308] Deleted temp directory for PackageUpdater.
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.341Z] [MCP Server] [2025-07-25 14:34:01.309] Package group @jest/globals completed in 00:00:19.
+2025-07-25 14:34:01.343 [info] [2025-07-25T21:34:01.341Z] [MCP Server] Successfully upgraded 1 packages: @jest/globals
+2025-07-25 14:34:01.344 [info] [2025-07-25T21:34:01.342Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:34:01.344 [info] [2025-07-25T21:34:01.342Z] [MCP Server] [2025-07-25 14:34:01.311] Using VS Code provided token for Kusto authentication
+2025-07-25 14:34:01.344 [info] [2025-07-25T21:34:01.342Z] [MCP Server] [2025-07-25 14:34:01.312] Updating package group (3/13): @playwright/test
+2025-07-25 14:34:01.826 [info] [2025-07-25T21:34:01.825Z] [MCP Server] [2025-07-25 14:34:01.312] Updating package group (3/13): @playwright/test
+2025-07-25 14:34:09.430 [info] [2025-07-25T21:34:09.429Z] [MCP Server] [2025-07-25 14:34:09.238] Updating @playwright/test from ^1.51.1 to ^1.54.1
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.047Z] [MCP Server] [2025-07-25 14:34:18.783] No new errors found after updating @playwright/test.
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.047Z] [MCP Server] [2025-07-25 14:34:18.785] Modified files while updating package(s) @playwright/test:
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.047Z] [MCP Server] package.json
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.048Z] [MCP Server] package-lock.json
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.048Z] [MCP Server] [2025-07-25 14:34:18.787] Deleted temp directory for PackageUpdater.
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.048Z] [MCP Server] [2025-07-25 14:34:18.788] Package group @playwright/test completed in 00:00:17.
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.048Z] [MCP Server] Successfully upgraded 1 packages: @playwright/test
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.048Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.049Z] [MCP Server] [2025-07-25 14:34:18.790] Using VS Code provided token for Kusto authentication
+2025-07-25 14:34:19.050 [info] [2025-07-25T21:34:19.049Z] [MCP Server] [2025-07-25 14:34:18.792] Updating package group (4/13): @types/jest
+2025-07-25 14:34:27.662 [info] [2025-07-25T21:34:27.661Z] [MCP Server] [2025-07-25 14:34:27.408] Updating @types/jest from ^29.5.11 to ^30.0.0
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.838Z] [MCP Server] [2025-07-25 14:34:40.374] No new errors found after updating @types/jest.
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.838Z] [MCP Server] [2025-07-25 14:34:40.377] Modified files while updating package(s) @types/jest:
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.839Z] [MCP Server] package.json
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.839Z] [MCP Server] package-lock.json
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.839Z] [MCP Server] [2025-07-25 14:34:40.379] Deleted temp directory for PackageUpdater.
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.840Z] [MCP Server] [2025-07-25 14:34:40.382] Package group @types/jest completed in 00:00:21.
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.840Z] [MCP Server] Successfully upgraded 1 packages: @types/jest
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.840Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.841Z] [MCP Server] [2025-07-25 14:34:40.384] Using VS Code provided token for Kusto authentication
+2025-07-25 14:34:40.842 [info] [2025-07-25T21:34:40.841Z] [MCP Server] [2025-07-25 14:34:40.385] Updating package group (5/13): @types/node
+2025-07-25 14:34:47.407 [info] [2025-07-25T21:34:47.405Z] [MCP Server] [2025-07-25 14:34:47.072] Updating @types/node from ^22.14.1 to ^24.1.0
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.524Z] [MCP Server] [2025-07-25 14:34:59.124] No new errors found after updating @types/node.
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.524Z] [MCP Server] [2025-07-25 14:34:59.126] Modified files while updating package(s) @types/node:
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.524Z] [MCP Server] package.json
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.525Z] [MCP Server] package-lock.json
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.525Z] [MCP Server] [2025-07-25 14:34:59.128] Deleted temp directory for PackageUpdater.
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.525Z] [MCP Server] [2025-07-25 14:34:59.130] Package group @types/node completed in 00:00:18.
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.525Z] [MCP Server] Successfully upgraded 1 packages: @types/node
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.525Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.526Z] [MCP Server] [2025-07-25 14:34:59.132] Using VS Code provided token for Kusto authentication
+2025-07-25 14:34:59.527 [info] [2025-07-25T21:34:59.526Z] [MCP Server] [2025-07-25 14:34:59.133] Updating package group (6/13): concurrently
+2025-07-25 14:35:08.634 [info] [2025-07-25T21:35:08.632Z] [MCP Server] [2025-07-25 14:35:08.446] Updating concurrently from ^8.2.2 to ^9.2.0
+2025-07-25 14:35:19.756 [info] [2025-07-25T21:35:19.751Z] [MCP Server] [2025-07-25 14:35:19.266] No new errors found after updating concurrently.
+2025-07-25 14:35:19.756 [info] [2025-07-25T21:35:19.751Z] [MCP Server] [2025-07-25 14:35:19.267] Modified files while updating package(s) concurrently:
+2025-07-25 14:35:19.756 [info] [2025-07-25T21:35:19.752Z] [MCP Server] package.json
+2025-07-25 14:35:19.756 [info] [2025-07-25T21:35:19.752Z] [MCP Server] package-lock.json
+2025-07-25 14:35:19.756 [info] [2025-07-25T21:35:19.752Z] [MCP Server] [2025-07-25 14:35:19.270] Deleted temp directory for PackageUpdater.
+2025-07-25 14:35:19.756 [info] [2025-07-25T21:35:19.753Z] [MCP Server] [2025-07-25 14:35:19.271] Package group concurrently completed in 00:00:20.
+2025-07-25 14:35:19.757 [info] [2025-07-25T21:35:19.753Z] [MCP Server] Successfully upgraded 1 packages: concurrently
+2025-07-25 14:35:19.757 [info] [2025-07-25T21:35:19.754Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:35:19.757 [info] [2025-07-25T21:35:19.754Z] [MCP Server] [2025-07-25 14:35:19.274] Using VS Code provided token for Kusto authentication
+2025-07-25 14:35:19.757 [info] [2025-07-25T21:35:19.755Z] [MCP Server] [2025-07-25 14:35:19.276] Updating package group (7/13): eslint
+2025-07-25 14:35:28.849 [info] [2025-07-25T21:35:28.848Z] [MCP Server] [2025-07-25 14:35:28.671] Updating eslint from ^9.26.0 to ^9.32.0
+2025-07-25 14:35:51.614 [info] [2025-07-25T21:35:51.609Z] [MCP Server] [2025-07-25 14:35:51.510] No new errors found after updating eslint.
+2025-07-25 14:35:51.614 [info] [2025-07-25T21:35:51.609Z] [MCP Server] [2025-07-25 14:35:51.512] Modified files while updating package(s) eslint:
+2025-07-25 14:35:51.614 [info] [2025-07-25T21:35:51.610Z] [MCP Server] package.json
+2025-07-25 14:35:51.614 [info] [2025-07-25T21:35:51.610Z] [MCP Server] package-lock.json
+2025-07-25 14:35:51.615 [info] [2025-07-25T21:35:51.611Z] [MCP Server] [2025-07-25 14:35:51.514] Deleted temp directory for PackageUpdater.
+2025-07-25 14:35:51.615 [info] [2025-07-25T21:35:51.611Z] [MCP Server] [2025-07-25 14:35:51.515] Package group eslint completed in 00:00:32.
+2025-07-25 14:35:51.615 [info] [2025-07-25T21:35:51.612Z] [MCP Server] Successfully upgraded 1 packages: eslint
+2025-07-25 14:35:51.615 [info] [2025-07-25T21:35:51.612Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:35:51.615 [info] [2025-07-25T21:35:51.613Z] [MCP Server] [2025-07-25 14:35:51.517] Using VS Code provided token for Kusto authentication
+2025-07-25 14:35:51.615 [info] [2025-07-25T21:35:51.613Z] [MCP Server] [2025-07-25 14:35:51.518] Updating package group (8/13): fs-extra
+2025-07-25 14:36:31.089 [info] [2025-07-25T21:36:31.087Z] [MCP Server] [2025-07-25 14:36:30.787] Updating fs-extra from ^11.1.1 to ^11.3.0
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.288Z] [MCP Server] [2025-07-25 14:36:49.106] No new errors found after updating fs-extra.
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.289Z] [MCP Server] [2025-07-25 14:36:49.107] Modified files while updating package(s) fs-extra:
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.289Z] [MCP Server] package.json
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.289Z] [MCP Server] package-lock.json
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.289Z] [MCP Server] [2025-07-25 14:36:49.109] Deleted temp directory for PackageUpdater.
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.290Z] [MCP Server] [2025-07-25 14:36:49.110] Package group fs-extra completed in 00:00:57.
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.290Z] [MCP Server] Successfully upgraded 1 packages: fs-extra
+2025-07-25 14:36:49.292 [info] [2025-07-25T21:36:49.290Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:36:49.293 [info] [2025-07-25T21:36:49.291Z] [MCP Server] [2025-07-25 14:36:49.111] Using VS Code provided token for Kusto authentication
+2025-07-25 14:36:49.293 [info] [2025-07-25T21:36:49.291Z] [MCP Server] [2025-07-25 14:36:49.112] Updating package group (9/13): globals
+2025-07-25 14:36:56.345 [info] [2025-07-25T21:36:56.344Z] [MCP Server] [2025-07-25 14:36:55.843] Updating globals from ^16.1.0 to ^16.3.0
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.440Z] [MCP Server] [2025-07-25 14:37:06.075] No new errors found after updating globals.
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.441Z] [MCP Server] [2025-07-25 14:37:06.077] Modified files while updating package(s) globals:
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.441Z] [MCP Server] package.json
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.441Z] [MCP Server] package-lock.json
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.441Z] [MCP Server] [2025-07-25 14:37:06.080] Deleted temp directory for PackageUpdater.
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.442Z] [MCP Server] [2025-07-25 14:37:06.081] Package group globals completed in 00:00:16.
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.442Z] [MCP Server] Successfully upgraded 1 packages: globals
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.442Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.442Z] [MCP Server] [2025-07-25 14:37:06.083] Using VS Code provided token for Kusto authentication
+2025-07-25 14:37:06.444 [info] [2025-07-25T21:37:06.443Z] [MCP Server] [2025-07-25 14:37:06.085] Updating package group (10/13): jest ts-jest
+2025-07-25 14:37:38.405 [info] [2025-07-25T21:37:38.404Z] [MCP Server] [2025-07-25 14:37:38.303] Updating jest from ^29.2.0 to ^30.0.5, ts-jest from ^29.2.6 to ^29.4.0
+2025-07-25 14:37:49.545 [info] [2025-07-25T21:37:49.541Z] [MCP Server] [2025-07-25 14:37:49.325] No new errors found after updating jest ts-jest.
+2025-07-25 14:37:49.545 [info] [2025-07-25T21:37:49.542Z] [MCP Server] [2025-07-25 14:37:49.326] Modified files while updating package(s) jest ts-jest:
+2025-07-25 14:37:49.545 [info] [2025-07-25T21:37:49.542Z] [MCP Server] package.json
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.543Z] [MCP Server] package-lock.json
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.543Z] [MCP Server] [2025-07-25 14:37:49.328] Deleted temp directory for PackageUpdater.
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.543Z] [MCP Server] [2025-07-25 14:37:49.329] Package group jest ts-jest completed in 00:00:43.
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.544Z] [MCP Server] Successfully upgraded 2 packages: jest,ts-jest
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.544Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.544Z] [MCP Server] [2025-07-25 14:37:49.331] Using VS Code provided token for Kusto authentication
+2025-07-25 14:37:49.546 [info] [2025-07-25T21:37:49.545Z] [MCP Server] [2025-07-25 14:37:49.332] Updating package group (11/13): playwright
+2025-07-25 14:37:56.610 [info] [2025-07-25T21:37:56.609Z] [MCP Server] [2025-07-25 14:37:56.565] Updating playwright from ^1.51.1 to ^1.54.1
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.208Z] [MCP Server] [2025-07-25 14:38:06.708] No new errors found after updating playwright.
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.209Z] [MCP Server] [2025-07-25 14:38:06.711] Modified files while updating package(s) playwright:
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.209Z] [MCP Server] package.json
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.209Z] [MCP Server] package-lock.json
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.210Z] [MCP Server] [2025-07-25 14:38:06.713] Deleted temp directory for PackageUpdater.
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.210Z] [MCP Server] [2025-07-25 14:38:06.714] Package group playwright completed in 00:00:17.
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.210Z] [MCP Server] Successfully upgraded 1 packages: playwright
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.210Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:38:07.211 [info] [2025-07-25T21:38:07.210Z] [MCP Server] [2025-07-25 14:38:06.716] Using VS Code provided token for Kusto authentication
+2025-07-25 14:38:07.212 [info] [2025-07-25T21:38:07.210Z] [MCP Server] [2025-07-25 14:38:06.718] Updating package group (12/13): pretty-quick
+2025-07-25 14:38:14.765 [info] [2025-07-25T21:38:14.764Z] [MCP Server] [2025-07-25 14:38:14.519] Updating pretty-quick from ^3.1.3 to ^4.2.2
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.400Z] [MCP Server] [2025-07-25 14:38:25.002] No new errors found after updating pretty-quick.
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.400Z] [MCP Server] [2025-07-25 14:38:25.004] Modified files while updating package(s) pretty-quick:
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.401Z] [MCP Server] package.json
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.402Z] [MCP Server] package-lock.json
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.402Z] [MCP Server] [2025-07-25 14:38:25.009] Deleted temp directory for PackageUpdater.
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.402Z] [MCP Server] [2025-07-25 14:38:25.011] Package group pretty-quick completed in 00:00:18.
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.402Z] [MCP Server] Successfully upgraded 1 packages: pretty-quick
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.402Z] [MCP Server] [ChatClient] Using Copilot model: claude-sonnet-4
+2025-07-25 14:38:25.404 [info] [2025-07-25T21:38:25.403Z] [MCP Server] [2025-07-25 14:38:25.015] Using VS Code provided token for Kusto authentication
+2025-07-25 14:38:25.405 [info] [2025-07-25T21:38:25.403Z] [MCP Server] [2025-07-25 14:38:25.016] Updating package group (13/13): randomstring
+2025-07-25 14:38:33.002 [info] [2025-07-25T21:38:33.001Z] [MCP Server] [2025-07-25 14:38:32.696] Updating randomstring from ^1.2.2 to ^1.3.1
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.091Z] [MCP Server] [2025-07-25 14:38:42.941] No new errors found after updating randomstring.
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.092Z] [MCP Server] [2025-07-25 14:38:42.943] Modified files while updating package(s) randomstring:
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.092Z] [MCP Server] package.json
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.092Z] [MCP Server] package-lock.json
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.093Z] [MCP Server] [2025-07-25 14:38:42.945] Deleted temp directory for PackageUpdater.
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.093Z] [MCP Server] [2025-07-25 14:38:42.947] Package group randomstring completed in 00:00:17.
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.093Z] [MCP Server] Successfully upgraded 1 packages: randomstring
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.093Z] [MCP Server] [2025-07-25 14:38:42.949] All packages updated.
+2025-07-25 14:38:43.098 [info] [2025-07-25T21:38:43.093Z] [MCP Server] [2025-07-25 14:38:42.951] Updater completed in 00:07:11.
+2025-07-25 14:38:43.099 [info] [2025-07-25T21:38:43.093Z] [MCP Server] Successfully upgraded 14 packages.
+2025-07-25 14:38:43.099 [info] [2025-07-25T21:38:43.094Z] [MCP Server] Partially upgraded 0 packages.
+2025-07-25 14:38:43.099 [info] [2025-07-25T21:38:43.094Z] [MCP Server] Unable to upgrade 0 packages.
+2025-07-25 14:38:43.099 [info] [2025-07-25T21:38:43.094Z] [MCP Server] Total packages available for upgrade: 14
+2025-07-25 14:38:43.099 [info] [2025-07-25T21:38:43.095Z] [MCP Server] [2025-07-25 14:38:42.954] === Token Usage Summary ===
+2025-07-25 14:38:43.099 [info] [2025-07-25T21:38:43.095Z] [MCP Server] Total API Calls: 0
+2025-07-25 14:38:43.100 [info] [2025-07-25T21:38:43.096Z] [MCP Server] Total Tokens: 0 (Prompt: 0, Completion: 0)
+2025-07-25 14:38:43.100 [info] [2025-07-25T21:38:43.096Z] [MCP Server] Usage by Model:
+2025-07-25 14:38:43.100 [info] [2025-07-25T21:38:43.097Z] [MCP Server] [2025-07-25 14:38:42.957] Report written to c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\logs\bruno-fork_2025-07-25_14-31-31.txt
+2025-07-25 14:38:43.100 [info] [2025-07-25T21:38:43.097Z] [MCP Server] [2025-07-25 14:38:42.959] [Information] [Updates.Mcp.McpTools] UpdateTypeScriptPackages completed successfully
+2025-07-25 14:38:43.100 [info] [2025-07-25T21:38:43.097Z] [MCP Server] [2025-07-25 14:38:42.966] [Information] [ModelContextProtocol.Server.McpServer] Server (Updates 1.0.0.0), Client (Visual Studio Code - Insiders 1.103.0-insider) method 'tools/call' request handler completed.
