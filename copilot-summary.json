@@ -1,0 +1,105 @@
+{
+  "packages_upgraded": [
+    {
+      "package": "@faker-js/faker",
+      "from": "^7.6.0",
+      "to": "^9.9.0"
+    },
+    {
+      "package": "@jest/globals",
+      "from": "^29.2.0",
+      "to": "^30.0.5"
+    },
+    {
+      "package": "@playwright/test",
+      "from": "^1.51.1",
+      "to": "^1.54.1"
+    },
+    {
+      "package": "@types/jest",
+      "from": "^29.5.11",
+      "to": "^30.0.0"
+    },
+    {
+      "package": "@types/node",
+      "from": "^22.14.1",
+      "to": "^24.1.0"
+    },
+    {
+      "package": "concurrently",
+      "from": "^8.2.2",
+      "to": "^9.2.0"
+    },
+    {
+      "package": "eslint",
+      "from": "^9.26.0",
+      "to": "^9.32.0"
+    },
+    {
+      "package": "fs-extra",
+      "from": "^11.1.1",
+      "to": "^11.3.0"
+    },
+    {
+      "package": "globals",
+      "from": "^16.1.0",
+      "to": "^16.3.0"
+    },
+    {
+      "package": "jest",
+      "from": "^29.2.0",
+      "to": "^30.0.5"
+    },
+    {
+      "package": "ts-jest",
+      "from": "^29.2.6",
+      "to": "^29.4.0"
+    },
+    {
+      "package": "playwright",
+      "from": "^1.51.1",
+      "to": "^1.54.1"
+    },
+    {
+      "package": "pretty-quick",
+      "from": "^3.1.3",
+      "to": "^4.2.2"
+    },
+    {
+      "package": "randomstring",
+      "from": "^1.2.2",
+      "to": "^1.3.1"
+    }
+  ],
+  "errors_encountered": [],
+  "errors_resolved": [],
+  "errors_unresolved": [],
+  "ai_usage": {
+    "model_used": "claude-sonnet-4",
+    "total_api_calls": 0,
+    "total_tokens": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "usage_purpose": "No AI assistance was required - all packages upgraded successfully without code fixes"
+  },
+  "overall_summary": {
+    "total_execution_time": "00:07:11",
+    "project_type": "Monorepo with 14 packages",
+    "baseline_typescript_errors": 130,
+    "new_errors_introduced": 0,
+    "packages_successfully_upgraded": 14,
+    "packages_partially_upgraded": 0,
+    "packages_unable_to_upgrade": 0,
+    "total_packages_available_for_upgrade": 14,
+    "success_rate": "100%",
+    "authentication": {
+      "github_token": "Available (40 chars)",
+      "kusto_token": "Available (cached, expires 2025-07-26T18:17:27.000Z)"
+    },
+    "files_modified": [
+      "package.json",
+      "package-lock.json"
+    ],
+    "process_completed": "Successfully without any issues"
+  }
+}
