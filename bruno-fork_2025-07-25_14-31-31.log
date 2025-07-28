@@ -1,0 +1,156 @@
+[2025-07-25 14:31:31.860] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+[2025-07-25 14:31:34.206] Updating 14 packages at c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+[2025-07-25 14:31:36.838] Analyzing project at: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork
+[2025-07-25 14:31:36.840] Analyzing repository structure...
+[2025-07-25 14:31:37.137] Detected monorepo structure with 14 packages
+[2025-07-25 14:31:37.139] Generating installation commands...
+[2025-07-25 14:31:38.008] Found 2 package installation tasks
+[2025-07-25 14:31:38.015] Installing packages...
+[2025-07-25 14:32:33.643] Looking for local TypeScript installation...
+[2025-07-25 14:32:33.647] Using local TypeScript compiler at: c:\Users\lucygramley\Downloads\ai_test_repos\bruno-fork\node_modules\typescript\lib\tsc.js
+[2025-07-25 14:32:33.648] Building project to collect baseline errors...
+[2025-07-25 14:32:58.524] Found 130 errors in initial build
+[2025-07-25 14:33:16.621] Updating packages in the following order:
+ @faker-js/faker, @jest/globals, @playwright/test, @types/jest, @types/node, concurrently, eslint, fs-extra, globals, jest ts-jest, playwright, pretty-quick, randomstring
+[2025-07-25 14:33:16.760] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:33:16.775] Updating package group (1/13): @faker-js/faker
+[2025-07-25 14:33:32.681] Updating @faker-js/faker from ^7.6.0 to ^9.9.0
+[2025-07-25 14:33:41.882] No new errors found after updating @faker-js/faker.
+[2025-07-25 14:33:41.883] Modified files while updating package(s) @faker-js/faker: 
+package.json
+package-lock.json
+[2025-07-25 14:33:41.886] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:33:41.888] Package group @faker-js/faker completed in 00:00:25.
+Successfully upgraded 1 packages: @faker-js/faker
+[2025-07-25 14:33:41.890] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:33:41.891] Updating package group (2/13): @jest/globals
+[2025-07-25 14:33:51.723] Updating @jest/globals from ^29.2.0 to ^30.0.5
+[2025-07-25 14:34:01.304] No new errors found after updating @jest/globals.
+[2025-07-25 14:34:01.306] Modified files while updating package(s) @jest/globals: 
+package.json
+package-lock.json
+[2025-07-25 14:34:01.308] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:34:01.309] Package group @jest/globals completed in 00:00:19.
+Successfully upgraded 1 packages: @jest/globals
+[2025-07-25 14:34:01.311] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:34:01.312] Updating package group (3/13): @playwright/test
+[2025-07-25 14:34:09.238] Updating @playwright/test from ^1.51.1 to ^1.54.1
+[2025-07-25 14:34:18.783] No new errors found after updating @playwright/test.
+[2025-07-25 14:34:18.785] Modified files while updating package(s) @playwright/test: 
+package.json
+package-lock.json
+[2025-07-25 14:34:18.787] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:34:18.788] Package group @playwright/test completed in 00:00:17.
+Successfully upgraded 1 packages: @playwright/test
+[2025-07-25 14:34:18.790] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:34:18.792] Updating package group (4/13): @types/jest
+[2025-07-25 14:34:27.408] Updating @types/jest from ^29.5.11 to ^30.0.0
+[2025-07-25 14:34:40.374] No new errors found after updating @types/jest.
+[2025-07-25 14:34:40.377] Modified files while updating package(s) @types/jest: 
+package.json
+package-lock.json
+[2025-07-25 14:34:40.379] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:34:40.382] Package group @types/jest completed in 00:00:21.
+Successfully upgraded 1 packages: @types/jest
+[2025-07-25 14:34:40.384] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:34:40.385] Updating package group (5/13): @types/node
+[2025-07-25 14:34:47.072] Updating @types/node from ^22.14.1 to ^24.1.0
+[2025-07-25 14:34:59.124] No new errors found after updating @types/node.
+[2025-07-25 14:34:59.126] Modified files while updating package(s) @types/node: 
+package.json
+package-lock.json
+[2025-07-25 14:34:59.128] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:34:59.130] Package group @types/node completed in 00:00:18.
+Successfully upgraded 1 packages: @types/node
+[2025-07-25 14:34:59.132] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:34:59.133] Updating package group (6/13): concurrently
+[2025-07-25 14:35:08.446] Updating concurrently from ^8.2.2 to ^9.2.0
+[2025-07-25 14:35:19.266] No new errors found after updating concurrently.
+[2025-07-25 14:35:19.267] Modified files while updating package(s) concurrently: 
+package.json
+package-lock.json
+[2025-07-25 14:35:19.270] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:35:19.271] Package group concurrently completed in 00:00:20.
+Successfully upgraded 1 packages: concurrently
+[2025-07-25 14:35:19.274] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:35:19.276] Updating package group (7/13): eslint
+[2025-07-25 14:35:28.671] Updating eslint from ^9.26.0 to ^9.32.0
+[2025-07-25 14:35:51.510] No new errors found after updating eslint.
+[2025-07-25 14:35:51.512] Modified files while updating package(s) eslint: 
+package.json
+package-lock.json
+[2025-07-25 14:35:51.514] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:35:51.515] Package group eslint completed in 00:00:32.
+Successfully upgraded 1 packages: eslint
+[2025-07-25 14:35:51.517] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:35:51.518] Updating package group (8/13): fs-extra
+[2025-07-25 14:36:30.787] Updating fs-extra from ^11.1.1 to ^11.3.0
+[2025-07-25 14:36:49.106] No new errors found after updating fs-extra.
+[2025-07-25 14:36:49.107] Modified files while updating package(s) fs-extra: 
+package.json
+package-lock.json
+[2025-07-25 14:36:49.109] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:36:49.110] Package group fs-extra completed in 00:00:57.
+Successfully upgraded 1 packages: fs-extra
+[2025-07-25 14:36:49.111] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:36:49.112] Updating package group (9/13): globals
+[2025-07-25 14:36:55.843] Updating globals from ^16.1.0 to ^16.3.0
+[2025-07-25 14:37:06.075] No new errors found after updating globals.
+[2025-07-25 14:37:06.077] Modified files while updating package(s) globals: 
+package.json
+package-lock.json
+[2025-07-25 14:37:06.080] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:37:06.081] Package group globals completed in 00:00:16.
+Successfully upgraded 1 packages: globals
+[2025-07-25 14:37:06.083] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:37:06.085] Updating package group (10/13): jest ts-jest
+[2025-07-25 14:37:38.303] Updating jest from ^29.2.0 to ^30.0.5, ts-jest from ^29.2.6 to ^29.4.0
+[2025-07-25 14:37:49.325] No new errors found after updating jest ts-jest.
+[2025-07-25 14:37:49.326] Modified files while updating package(s) jest ts-jest: 
+package.json
+package-lock.json
+[2025-07-25 14:37:49.328] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:37:49.329] Package group jest ts-jest completed in 00:00:43.
+Successfully upgraded 2 packages: jest,ts-jest
+[2025-07-25 14:37:49.331] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:37:49.332] Updating package group (11/13): playwright
+[2025-07-25 14:37:56.565] Updating playwright from ^1.51.1 to ^1.54.1
+[2025-07-25 14:38:06.708] No new errors found after updating playwright.
+[2025-07-25 14:38:06.711] Modified files while updating package(s) playwright: 
+package.json
+package-lock.json
+[2025-07-25 14:38:06.713] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:38:06.714] Package group playwright completed in 00:00:17.
+Successfully upgraded 1 packages: playwright
+[2025-07-25 14:38:06.716] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:38:06.718] Updating package group (12/13): pretty-quick
+[2025-07-25 14:38:14.519] Updating pretty-quick from ^3.1.3 to ^4.2.2
+[2025-07-25 14:38:25.002] No new errors found after updating pretty-quick.
+[2025-07-25 14:38:25.004] Modified files while updating package(s) pretty-quick: 
+package.json
+package-lock.json
+[2025-07-25 14:38:25.009] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:38:25.011] Package group pretty-quick completed in 00:00:18.
+Successfully upgraded 1 packages: pretty-quick
+[2025-07-25 14:38:25.015] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:38:25.016] Updating package group (13/13): randomstring
+[2025-07-25 14:38:32.696] Updating randomstring from ^1.2.2 to ^1.3.1
+[2025-07-25 14:38:42.941] No new errors found after updating randomstring.
+[2025-07-25 14:38:42.943] Modified files while updating package(s) randomstring: 
+package.json
+package-lock.json
+[2025-07-25 14:38:42.945] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:38:42.947] Package group randomstring completed in 00:00:17.
+Successfully upgraded 1 packages: randomstring
+[2025-07-25 14:38:42.949] All packages updated.
+[2025-07-25 14:38:42.951] Updater completed in 00:07:11.
+Successfully upgraded 14 packages.
+Partially upgraded 0 packages.
+Unable to upgrade 0 packages.
+Total packages available for upgrade: 14
+[2025-07-25 14:38:42.954] === Token Usage Summary ===
+Total API Calls: 0
+Total Tokens: 0 (Prompt: 0, Completion: 0)
+Usage by Model:
+
+[2025-07-25 14:38:42.957] Report written to c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\logs\bruno-fork_2025-07-25_14-31-31.txt
